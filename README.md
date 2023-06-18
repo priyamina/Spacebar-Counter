@@ -11,3 +11,7 @@ This is a spacebar counter game as an assignment
 6. Commit the changes with a suitable commit message like `git commit -m "added index.js"`
 7. Push the changes using `git push`. Now your changes should be visible on Github.
 8. Share the link of your repository to me.
+
+### Edit
+
+Edited to showcase Github use
